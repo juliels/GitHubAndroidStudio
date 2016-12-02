@@ -27,6 +27,15 @@
             android:id="@+id/tv_meuapp"
             android:layout_weight="1" />
 
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"
+            android:ems="10"
+            android:id="@+id/editText2"
+            android:hint="Digite aqui!"
+            android:layout_weight="1" />
+
         <Button
             android:text="Button"
             android:layout_width="match_parent"
